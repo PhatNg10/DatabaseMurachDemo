@@ -6,6 +6,5 @@ data\ConnectionPool.class
 com\mycompany\databasemurachdemo\JakartaRestConfiguration.class
 data\HikariCP.class
 Util\MailUtilLocal.class
-Test.class
 Util\MailUtilGmail.class
 business\User.class

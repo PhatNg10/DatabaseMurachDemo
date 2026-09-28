@@ -17,16 +17,16 @@
         <properties>
 
             <property name="jakarta.persistence.jdbc.url"
-                      value="jdbc:mysql://127.0.0.1:3306/DatabaseTest"/>
+                      value="jdbc:mysql://avnadmin:AVNS_SMdoKLCh9qTnqBpFNRA@mysql-2a5a70fa-phatng1010-c94c.i.aivencloud.com:26803/DatabaseTest?ssl-mode=REQUIRED"/>
 
             <property name="jakarta.persistence.jdbc.driver"
                       value="com.mysql.cj.jdbc.Driver"/>
 
             <property name="jakarta.persistence.jdbc.user"
-                      value="root"/>
+                      value="avnadmin"/>
 
             <property name="jakarta.persistence.jdbc.password"
-                      value="123456"/>
+                      value="AVNS_SMdoKLCh9qTnqBpFNRA"/>
 
             <property name="jakarta.persistence.schema-generation.database.action"
                       value="create"/>

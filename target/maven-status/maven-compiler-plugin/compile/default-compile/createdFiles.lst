@@ -1,0 +1,11 @@
+controller\EmailListServlet.class
+data\UserDB.class
+com\mycompany\databasemurachdemo\resources\JakartaEE11Resource.class
+Util\DBUtil.class
+data\ConnectionPool.class
+com\mycompany\databasemurachdemo\JakartaRestConfiguration.class
+data\HikariCP.class
+Util\MailUtilLocal.class
+Test.class
+Util\MailUtilGmail.class
+business\User.class

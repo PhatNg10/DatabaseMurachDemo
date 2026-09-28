@@ -1,0 +1,65 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 21, 2026, 8:10:24 PM
+    Author     : phatn
+*/
+
+/* index.css */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 20px 25px;
+    width: 350px;
+}
+
+h1 {
+    color: #006600;
+    font-size: 16px;
+    margin: 0 0 8px 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+form {
+    margin-top: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+    vertical-align: top;
+}
+
+input[type="email"],
+input[type="text"] {
+    width: 185px;
+    height: 24px;
+    padding: 1px 3px;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    font-size: 11px;
+    padding: 1px 6px;
+    margin-top: 3px;
+}
+
+.pad_top {
+    margin-top: 4px;
+}
+
+.margin_left {
+    margin-left: 0;
+}
+
+.message {
+    font-size: 14px;
+}

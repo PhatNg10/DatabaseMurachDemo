@@ -26,7 +26,7 @@
                       value="avnadmin"/>
 
             <property name="jakarta.persistence.jdbc.password"
-                      value=""/>
+                      value="AVNS_SMdoKLCh9qTnqBpFNRA"/>
 
             <property name="jakarta.persistence.schema-generation.database.action"
                       value="create"/>
